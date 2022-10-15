@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)]
 <h1 align="center">Hi 👋, I'm Akshay Ingle</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
