@@ -44,7 +44,7 @@
   </p> -->
 
   <p align="center">
-  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻%20Fullstack%20Web%20Developer;🎨%20UI/UX%20%20Design;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻%20Fullstack%20Web%20Developer;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
   
   <!--
@@ -68,46 +68,11 @@
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/></a>
-<a href="#"><img src="imgs/cplusplus.png" width="20"/></a>
-<a href="#"><img src="imgs/c.png" width="20"/></a>
-<a href="#"><img src="imgs/jquery.png" width="20"/></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="20" height="20" alt="Angular" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/></a>
-<a href="#"><img src="imgs/django.png" width="20"/></a>
-<a href="#"><img src="imgs/flask.png" width="20"/></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="20" height="20" alt="Kotlin" /></a>
-<a href="#"><img src="imgs/php.png" width="20"/></a>
-<a href="#"><img src="imgs/perl.png" width="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20"/></a>
-<a href="#"><img src="imgs/mysql.png" width="20"/></a>
-<a href="#"><img src="imgs/asm.png" width="20"/></a>
 <a href="#"><img src="imgs/github.png" width="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/></a>
-<a href="#"><img src="imgs/blogger.png" width="20"/></a>
-<a href="#"><img src="imgs/wix.png" width="20"/></a>
-<a href="#"><img src="imgs/wordpress.png" width="20"/></a>
-<a href="#"><img src="imgs/andriod_studio.png" width="20"/></a>
-<a href="#"><img src="imgs/arduino.png" width="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/></a>
-<a href="#"><img src="imgs/rasberry_pi.png" width="20"/></a>
-<a href="#"><img src="imgs/power_shell.png" width="20"/></a>
-<a href="#"><img src="imgs/bash.png" width="20"/></a>
-<a href="#"><img src="imgs/terminal.png" width="20"/></a>
-<a href="#"><img src="imgs/android_os.png" width="20"/></a>
-<a href="#"><img src="imgs/kali.jpeg" width="20"/></a>
-<a href="#"><img src="imgs/tails.png" width="20"/></a>
-<a href="#"><img src="imgs/windows_os.png" width="20"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="20"/></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="20" height="20" alt="Sass" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="20" height="20" alt="Oracle" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="20" height="20" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="20" height="20" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="20" height="20@" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="20" height="20" alt="XD" /></a>
-
-
 
 
 <h4 align="left">
@@ -115,12 +80,7 @@
  </h4>
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="20" height="20" alt="NodeJS" /></a>
-<a href="#"><img src="imgs/csharp.png" width="20"/></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="20" height="20" alt="Swift" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="20" height="20" alt="Ruby" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="20" height="20" alt="Go" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="20" height="20" alt="Firebase" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="20" height="20" alt="Flutter" /></a>
+
 
 <br />
 
@@ -128,7 +88,7 @@
  <summary> <h4> 🔰 Some of my projects </h4><hr></summary>
   <br/>
 
-  <p align="left">
+<!--   <p align="left">
   <a href="https://github.com/The-Young-Programmer/Math-Quize">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
   <a href="https://github.com/The-Young-Programmer/Hangman-Game">
@@ -141,7 +101,7 @@
  <p align="left">
   <a href="https://github.com/The-Young-Programmer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-</details>
+</details> -->
 
 
 <h4 align="center">
@@ -163,29 +123,19 @@
 📊 Quote Of The Day 📊
 </h2>-->
 
-<!--START_SECTION:waka-->
-<!--
-```text
-
-No Bug No Life.
-
-```
--->
-<!--END_SECTION:waka-->
-
 
 <h4 align="left">
  contact
 </h4>
 <p align="left">
- <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a>
+<!--  <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a> -->
  <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
  <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a>
  <a href="https://www.github.com/The-Young-Programmer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" /></a></p>
 
-<h4>Support Me</h4>
+<!-- <h4>Support Me</h4>
 
-<a href="https://www.buymeacoffee.com/The-Young-Programmer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/The-Young-Programmer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
 
 
 
