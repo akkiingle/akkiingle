@@ -1,4 +1,4 @@
- <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🔰-Akshay-Ingle-🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!--  <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🔰-Akshay-Ingle-🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/> -->
 <!-- 
 ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Akshay Ingle</h1>
@@ -19,7 +19,7 @@
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
  -->
  
- <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🔰-Akshay Ingle-🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+ <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🔰-Akshay_Ingle-🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!--
 <h1 align="center">
@@ -70,7 +70,8 @@
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20"/></a>
-<a href="#"><img src="imgs/github.png" width="20"/></a>
+<!-- <a href="#"><img src="imgs/github.png" width="20"/></a> -->
+<a href="#"><img src="https://miro.medium.com/max/719/0*k7H1_j7ols5Mlwse.png" width="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/></a>
 
