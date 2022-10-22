@@ -29,7 +29,7 @@
 
 
  <p align="center">
-  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻%20Fullstack%20Web%20Developer;💬%20Ask%20me%20about%20HTML,%20CSS,%20Javascript,%20React;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻%20Fullstack%20Web%20Developer;💬%20Ask%20me%20about%20HTML,%20CSS,%20Javascript,%20React;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
