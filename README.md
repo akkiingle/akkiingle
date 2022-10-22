@@ -84,9 +84,9 @@
 
 <br />
 
-<details> 
+<!-- <details> 
  <summary> <h4> 🔰 Some of my projects </h4><hr></summary>
-  <br/>
+  <br/> -->
 
 <!--   <p align="left">
   <a href="https://github.com/The-Young-Programmer/Math-Quize">
