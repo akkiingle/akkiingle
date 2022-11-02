@@ -42,9 +42,7 @@
  </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=centauricoder01&show_icons=true&locale=en&layout=compact" alt="centauricoder01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=centauricoder01&show_icons=true&locale=en" alt="centauricoder01" /></p>
-<br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=centauricoder01" alt="centauricoder01" /></a> </p>
+
 
 <!-- <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/></a>
