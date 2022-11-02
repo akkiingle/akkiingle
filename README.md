@@ -1,16 +1,5 @@
 
-<!-- ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg) -->
-<h1 align="center">Hi 👋, I'm Akshay Ingle</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🌱 I’m currently learning **Full Stack Web Development course**
-
-- 💬 Ask me about **HTML,CSS,Javascript,React,Chakra UI,Express, MongoDB, NodeJS**
-
-
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
-
- 
+<!-- ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg) --> 
  <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👨‍💻%20Akshay%20Ingle%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
