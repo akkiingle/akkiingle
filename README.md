@@ -1,6 +1,5 @@
-<!--  <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🔰-Akshay-Ingle-🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/> -->
 
-![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
+<!-- ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg) -->
 <h1 align="center">Hi 👋, I'm Akshay Ingle</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -8,7 +7,6 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript,React,Chakra UI,Express, MongoDB, NodeJS**
 
-- 📫 How to reach me **akshayingle9898@gmail.com**
 
 <p align="left">
 </p>
@@ -41,6 +39,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
+- 📫 How to reach me **akshayingle9898@gmail.com**
 
 
 <br />
