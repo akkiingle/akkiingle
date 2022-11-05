@@ -13,6 +13,7 @@
   <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻%20Fullstack%20Web%20Developer;💬%20Ask%20me%20about%20HTML,%20CSS,%20Javascript;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+- 📫 How to reach me:akshayingle@gmail.com 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/18DnRfQh35Oaw7auNtvlDXpYCk3E-4JMD/view?usp=share_link )**
 
 <!--   <p align="center">
