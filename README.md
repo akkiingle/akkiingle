@@ -20,9 +20,9 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 
 - 🌱 I’m currently learning **Full-Stack web Development**
 
-- 📫 How to reach me:akshayingle9898@gmail.com 
+<!-- - 📫 How to reach me:akshayingle9898@gmail.com  -->
 - 📄 Know about me**[Resume](https://drive.google.com/file/d/18DnRfQh35Oaw7auNtvlDXpYCk3E-4JMD/view?usp=share_link )**
-- Portfolio (https://akkiingle.github.io/)
+<!-- - Portfolio (https://akkiingle.github.io/) -->
 
  
 
@@ -47,15 +47,18 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/akshay-ingle/)
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://akkiingle.github.io/) 
   [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/akkiingle)
-  [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/rajrathore/)
-  [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/theromeo_1313)
 
- <a href="mailto:amansingh9723chauhan@gmail.com" target="_blank">
+ <a href="mailto:akshayingle9898@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a> 
 </div>
 
 
+<!-- leadcode and hacker rank -->
+
+<!-- [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/rajrathore/)
+  [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/theromeo_1313)
+ -->
 
 
 <!-- <p align="left">
@@ -75,14 +78,6 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 	
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-
-<!-- <h4>Support Me</h4>
-
-<a href="https://www.buymeacoffee.com/The-Young-Programmer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
-
-
 
 
 
