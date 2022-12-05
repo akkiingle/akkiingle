@@ -38,7 +38,7 @@ Designing the web pages
 
 
 <h2 align="left">
- Technical Skills
+## Technical Skills
 </h2>
 <p align="left">
     <img width="60%" src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
@@ -48,7 +48,7 @@ Designing the web pages
 <br />
 
 <h2 align="left">
- Contact
+ ## Contact
 </h2>
 
 <div align='left'>
@@ -77,7 +77,7 @@ Designing the web pages
  <br />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
- <h2> 📊 Github Stats ....</h2>
+ <h2>## Github Stats ....</h2>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkiingle&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akkiingle&theme=solarized_dark">
