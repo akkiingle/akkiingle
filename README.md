@@ -33,8 +33,12 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 
  <br/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> -->
 
+
+<h2 align="left">
+ Technical Skills
+</h2>
 <p align="left">
     <img width="60%" src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
  </p>
