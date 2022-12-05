@@ -40,7 +40,7 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 </h2>
 
 
-<div align='center'>
+<div align='left'>
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/akshay-ingle/)
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://akkiingle.github.io/) 
