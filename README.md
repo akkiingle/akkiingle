@@ -21,13 +21,10 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
  
 <h2 align="left">Interest</h2>
-<p align="left">Listening to music</p>
-
 - Listening to music
+- Playing with CSS
+- Designing the web pages
 
-<!-- Listening to music
-Playing with CSS
-Designing the web pages -->
 
 
 <!-- - 📫 How to reach me:akshayingle9898@gmail.com  -->
