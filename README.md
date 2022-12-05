@@ -1,11 +1,5 @@
 
-<!-- ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg) --> 
  <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👨‍💻%20Akshay%20Ingle%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-
-
-
-<!--🌐 My Web Page 🌐-->
 
 
 
@@ -13,19 +7,28 @@
   <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻%20Fullstack%20Web%20Developer;💬%20Ask%20me%20about%20HTML,%20CSS,%20Javascript;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+The Full-Stack Developer designs and maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized.
+
+
+ Learnt Full-stack web development from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
+* 1200+ Hours Practical Coding
+* 100+ Hours Soft Skill Development
+* 50+ Mini Projects
+* 300 Hours Data Structures & Algorithms
+* 100+ Hours Math & Logic
+* 5+ Projects
+
+- 🌱 I’m currently learning **Full-Stack web Development**
+
 - 📫 How to reach me:akshayingle9898@gmail.com 
 - 📄 Know about me**[Resume](https://drive.google.com/file/d/18DnRfQh35Oaw7auNtvlDXpYCk3E-4JMD/view?usp=share_link )**
 - Portfolio (https://akkiingle.github.io/)
 
-<!--   <p align="center">
-  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻%20Fullstack%20Web%20Developer;
-🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a> 
-</p> -->
  
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
-<!-- - 📫 How to reach me **akshayingle9898@gmail.com** -->
+
 
 
 <br />
