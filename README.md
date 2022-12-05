@@ -17,8 +17,7 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 * 300 Hours Data Structures & Algorithms
 * 100+ Hours Math & Logic
 * 5+ Projects
-
-- <br/>
+ <br/>
 - <h3>Interest:-</h3> 
 - Listening to music
 - Playing with CSS
@@ -40,9 +39,8 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 <br />
 
 <h2 align="left">
- contact
+ Contact
 </h2>
-
 
 <div align='left'>
 
