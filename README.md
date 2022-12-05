@@ -24,7 +24,7 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 - 📄 Know about me**[Resume](https://drive.google.com/file/d/18DnRfQh35Oaw7auNtvlDXpYCk3E-4JMD/view?usp=share_link )**
 <!-- - Portfolio (https://akkiingle.github.io/) -->
 
- 
+ <br/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
