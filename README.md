@@ -22,12 +22,11 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 
  <br/>
  
- <h2 align="left">
- Interest
-</h2>
+<h2 align="left">Interest</h2>
 Listening to music
 Playing with CSS
 Designing the web pages
+
 
 <!-- - 📫 How to reach me:akshayingle9898@gmail.com  -->
 - 📄 Know about me**[Resume](https://drive.google.com/file/d/18DnRfQh35Oaw7auNtvlDXpYCk3E-4JMD/view?usp=share_link )**
