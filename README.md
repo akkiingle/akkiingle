@@ -30,7 +30,7 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 
 <br />
 
-<p align="center">
+<p align="left">
     <img width="60%" src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
  </p>
 
