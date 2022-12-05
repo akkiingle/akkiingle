@@ -23,6 +23,8 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 <h2 align="left">Interest</h2>
 <p align="left">Listening to music</p>
 
+- Listening to music
+
 <!-- Listening to music
 Playing with CSS
 Designing the web pages -->
