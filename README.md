@@ -23,6 +23,12 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
  <br/>
  
 <h2 align="left">Interest</h2>
+* 1200+ Hours Practical Coding
+* 100+ Hours Soft Skill Development
+* 50+ Mini Projects
+* 300 Hours Data Structures & Algorithms
+* 100+ Hours Math & Logic
+* 5+ Projects
 Listening to music
 Playing with CSS
 Designing the web pages
