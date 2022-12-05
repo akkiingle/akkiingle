@@ -18,9 +18,7 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 * 100+ Hours Math & Logic
 * 5+ Projects
 
-- 🌱 I’m currently learning **Full-Stack web Development**
 - <br/>
-- 
 - <h3>Interest:-</h3> 
 - Listening to music
 - Playing with CSS
