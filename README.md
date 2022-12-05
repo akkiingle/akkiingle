@@ -17,7 +17,11 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 * 300 Hours Data Structures & Algorithms
 * 100+ Hours Math & Logic
 * 5+ Projects
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
+
  <br/>
+ 
 - <h3>Interest:-</h3> 
 - Listening to music
 - Playing with CSS
