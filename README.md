@@ -20,7 +20,7 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
- <br/>
+ 
  
 <h2 align="left">Interest</h2>
 hhbd
